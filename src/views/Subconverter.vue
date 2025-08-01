@@ -345,6 +345,7 @@ export default {
           nameless13提供: "https://www.nameless13.com",
           subconverter作者提供: "https://sub.xeton.dev",
           "sub-web作者提供": "https://api.wcc.best",
+          "Deva作者提供": "https://proqqoqmybay.ap-southeast-1.clawcloudrun.com",
         },
         backendOptions: [
           { value: "https://subapi.cmliussss.net" },
@@ -354,6 +355,7 @@ export default {
           { value: "https://www.nameless13.com" },
           { value: "https://sub.xeton.dev" },
           { value: "https://api.wcc.best" },
+          { value: "https://proqqoqmybay.ap-southeast-1.clawcloudrun.com" },
         ],
         remoteConfig: [
           {
